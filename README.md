@@ -1,5 +1,5 @@
 # oibsip_taskno1
-This is a program of a calculator using html, Javascript and CSS which was a part of internship by BharatIntern
+This is a program of a calculator using html, Javascript and CSS which was a part of internship by Oasis Infobyte.
 
 For accessing the program,
 
